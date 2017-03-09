@@ -3,13 +3,15 @@
 You may do whatever you want with the icons in both the "Simple" folder and the "Complicated" folder as long as you credit Drew Naylor with creating the icons and you don't sell the icons or use them to defame me. If you want the source of the icons in the "Complicated" folder then here are the sources that I found the clipart. Note that I combined the clipart together to make the icons. I made the icons in the "Simple" folder all on my own.
 
 This isn't technically clipart but it might be interesting:
-https://openclipart.org/detail/216302/io-stack-of-the-linux-kernel
+- https://openclipart.org/detail/216302/io-stack-of-the-linux-kernel
 
 These might be useful as well:
-https://openclipart.org/detail/169042/windows-7-taskbar
-https://openclipart.org/detail/95461/windows-vista-button-template
+- https://openclipart.org/detail/169042/windows-7-taskbar
 
+- https://openclipart.org/detail/95461/windows-vista-button-template
 
+<br>
+<br>
 
 I went online and seached for open-source clipart and I found the Open Clipart website which allows people to do whatever they want with the clipart. See this page: https://openclipart.org/may-clipart-be-used-comparison
 
