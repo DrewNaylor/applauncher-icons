@@ -23,16 +23,19 @@ I went online and seached for open-source clipart and I found the Open Clipart w
 
 Globe icon:
 https://openclipart.org/detail/211387/globe-america
+<br>
 Direct link:
 https://openclipart.org/image/300px/svg_to_png/211387/globe-america.png
 
 Book icon:
 https://openclipart.org/detail/78145/office-diary-line-drawing
+<br>
 Direct link:
 https://openclipart.org/image/300px/svg_to_png/78145/office-diary-line-drawing.png
 
 Up Arrow:
 https://openclipart.org/detail/168037/glossy-white-arrow
+<br>
 Direct link:
 https://openclipart.org/image/300px/svg_to_png/168037/glossy-white-arrow.png
 
