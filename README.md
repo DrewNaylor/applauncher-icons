@@ -1,6 +1,10 @@
-*"You" is the end user and "I" or "Me" is Drew Naylor.*
+# applauncher-icons
 
-You may do whatever you want with the icons in both the "Simple" folder and the "Complicated" folder as long as you credit Drew Naylor with creating the icons and you don't sell the icons or use them to defame me. If you want the source of the icons in the "Complicated" folder then here are the sources that I found the clipart. Note that I combined the clipart together to make the icons. I made the icons in the "Simple" folder all on my own.
+applauncher-icons is a project which contains most of the icons used in Drew's App Launcher ([32-bit](https://github.com/DrewNaylor/MSOfficeAppLauncherNext32) &bull; [64-bit](https://github.com/DrewNaylor/MSOfficeAppLauncherNext64)) and [UXL Launcher](https://github.com/DrewNaylor/UXL-Launcher). This project excludes application branding icons and banners designed specifically for both of those aforementioned projects.
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">applauncher-icons</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/DrewNaylor/applauncher-icons" property="cc:attributionName" rel="cc:attributionURL">Drew Naylor</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+If you want the source of the icons in the "Complicated" folder then here are the sources that I found the clipart. Note that I combined the clipart together to make the icons. I made the icons in the "Simple" folder all on my own.
 
 This isn't technically clipart but it might be interesting:
 - https://openclipart.org/detail/216302/io-stack-of-the-linux-kernel
