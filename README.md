@@ -1,7 +1,5 @@
 # applauncher-icons
 
-Latest version: https://github.com/DrewNaylor/applauncher-icons/releases/latest
-
 applauncher-icons is a project which contains most of the icons used in Drew's App Launcher ([32-bit](https://github.com/DrewNaylor/MSOfficeAppLauncherNext32) &bull; [64-bit](https://github.com/DrewNaylor/MSOfficeAppLauncherNext64)) and [UXL Launcher](https://github.com/DrewNaylor/UXL-Launcher). This project excludes application branding icons and banners designed specifically for both of those aforementioned projects.
 
 No warranty is provided with applauncher-icons. Use at your own risk. Drew Naylor is not responsible for any problems that use of applauncher-icons may cause.
