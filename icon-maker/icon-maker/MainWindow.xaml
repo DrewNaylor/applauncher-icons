@@ -23,7 +23,7 @@
                         </LinearGradientBrush>
                     </Rectangle.Fill>
                 </Rectangle>-->
-            <Canvas Width="256" Height="256" SnapsToDevicePixels="True" RenderTransformOrigin="0,1">
+            <Canvas Width="256" Height="256" SnapsToDevicePixels="True" RenderTransformOrigin="0,1" Name="IconCanvas">
                 <Canvas.OpacityMask>
                     <RadialGradientBrush Center="0,256" GradientOrigin="0,256" MappingMode="Absolute" RadiusY="300" RadiusX="300">
                         <GradientStop Offset="1" Color="#000000"/>
