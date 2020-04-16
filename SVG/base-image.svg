@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="128px"
@@ -15,9 +16,34 @@
    version="1.1"
    id="SVGRoot"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="base-image.svg">
+   sodipodi:docname="base-image.svg"
+   inkscape:export-filename="C:\Users\drewn\Documents\0GitHub\applauncher-icons\SVG\base-image.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
-     id="defs3713" />
+     id="defs3713">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4574">
+      <stop
+         style="stop-color:#003cff;stop-opacity:1;"
+         offset="0"
+         id="stop4570" />
+      <stop
+         style="stop-color:#003cff;stop-opacity:0;"
+         offset="1"
+         id="stop4572" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4574"
+       id="linearGradient4576"
+       x1="-0.17677669"
+       y1="71.077904"
+       x2="127.80956"
+       y2="71.077904"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,7 +52,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6568542"
-     inkscape:cx="64"
+     inkscape:cx="34.920233"
      inkscape:cy="67.286779"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -57,7 +83,7 @@
        id="g27">
       <path
          id="rect3741"
-         style=""
+         style="fill-opacity:1;fill:url(#linearGradient4576)"
          d="M 76.897858,89.993011 H 127.98632 V 128 H 76.897858 Z M 0,75.850876 H 58.336311 V 128 H 0 Z M 0,0.0136725 H 48.436813 V 40.318761 H 0 Z m 29.168154,0 h 69.65002 c 16.159156,0 29.168156,13.0089965 29.168156,29.1681535 V 98.831847 C 127.98633,114.991 114.97733,128 98.818174,128 H 29.168154 C 13.008997,128 0,114.991 0,98.831847 V 29.181826 C 0,13.022669 13.008997,0.0136725 29.168154,0.0136725 Z" />
     </g>
   </g>
