@@ -1,0 +1,49 @@
+﻿<Window x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:icon_maker"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="361.123" Width="525">
+    <Grid>
+        <StackPanel Orientation="Vertical">
+            <!--<Rectangle Width="256" Height="256" StrokeThickness="0" SnapsToDevicePixels="True" Opacity="0.5">
+                    <Rectangle.Fill>
+                        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                            <LinearGradientBrush.RelativeTransform>
+                                <TransformGroup>
+                                    <ScaleTransform CenterY="0.5" CenterX="0.5"/>
+                                    <SkewTransform CenterY="0.5" CenterX="0.5"/>
+                                    <RotateTransform Angle="-93.576" CenterY="0.5" CenterX="0.5"/>
+                                    <TranslateTransform/>
+                                </TransformGroup>
+                            </LinearGradientBrush.RelativeTransform>
+                            <GradientStop Color="LimeGreen" Offset="0.789" />
+                        </LinearGradientBrush>
+                    </Rectangle.Fill>
+                </Rectangle>-->
+            <Rectangle Width="256" Height="256" SnapsToDevicePixels="True" RenderTransformOrigin="0,1">
+                <Rectangle.OpacityMask>
+                    <RadialGradientBrush Center="0,256" GradientOrigin="0,256" MappingMode="Absolute" RadiusY="300" RadiusX="300">
+                        <GradientStop Offset="1" Color="#000000"/>
+                        <GradientStop Offset="1"/>
+                    </RadialGradientBrush>
+                </Rectangle.OpacityMask>
+                <Rectangle.Fill>
+                    <LinearGradientBrush StartPoint="0,0.5" EndPoint="1,0.5">
+                        <LinearGradientBrush.GradientStops>
+                            <GradientStop Color="#003cff" Offset="0.0"/>
+                            <GradientStop Color="#3665ff" Offset="1.0"/>
+                        </LinearGradientBrush.GradientStops>
+                    </LinearGradientBrush>
+                </Rectangle.Fill>
+            </Rectangle>
+            <TextBox></TextBox>
+            <TextBox></TextBox>
+            <Button Height="25">
+                <TextBlock SnapsToDevicePixels="True">Save image</TextBlock>
+            </Button>
+        </StackPanel>
+    </Grid>
+</Window>
