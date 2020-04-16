@@ -17,7 +17,7 @@
    id="SVGRoot"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="base-image.svg"
-   inkscape:export-filename="C:\Users\drewn\Documents\0GitHub\applauncher-icons\SVG\base-image.png"
+   inkscape:export-filename="C:\Users\drewn\Documents\0GitHub\applauncher-icons\SVG\base-image2.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -52,7 +52,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="53.121492"
+     inkscape:cx="52.496492"
      inkscape:cy="67.911779"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -79,15 +79,6 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <g
-       id="g27"
-       transform="translate(26,-5)">
-      <path
-         id="rect3741"
-         style="fill:#3565ff;fill-opacity:1"
-         d="m 222.64786,95.743011 h 51.08846 V 133.75 H 222.64786 Z M 145.75,81.600876 h 58.33631 V 133.75 H 145.75 Z m 0,-75.8372035 h 48.43681 V 46.068761 H 145.75 Z m 29.16816,0 h 69.65002 c 16.15915,0 29.16815,13.0089965 29.16815,29.1681535 v 69.650024 c 0,16.15915 -13.009,29.16815 -29.16815,29.16815 H 174.91816 C 158.759,133.75 145.75,120.741 145.75,104.58185 V 34.931826 c 0,-16.159157 13.009,-29.1681535 29.16816,-29.1681535 z"
-         inkscape:connector-curvature="0" />
-    </g>
     <path
        id="rect824-07"
        style="fill:url(#linearGradient860);fill-opacity:1"
