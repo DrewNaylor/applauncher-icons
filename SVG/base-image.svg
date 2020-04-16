@@ -24,19 +24,19 @@
      id="defs3713">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient4615">
+       id="linearGradient4660">
       <stop
-         style="stop-color:#000000;stop-opacity:1;"
+         style="stop-color:#181bff;stop-opacity:1"
          offset="0"
-         id="stop4611" />
+         id="stop4656" />
       <stop
-         style="stop-color:#000000;stop-opacity:0;"
+         style="stop-color:#357bff;stop-opacity:1"
          offset="1"
-         id="stop4613" />
+         id="stop4658" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient858">
+       id="main_gradient-4">
       <stop
          style="stop-color:#003cff;stop-opacity:1"
          offset="0"
@@ -48,7 +48,7 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient858"
+       xlink:href="#main_gradient-4"
        id="linearGradient860"
        x1="0"
        y1="70"
@@ -57,7 +57,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient858"
+       xlink:href="#main_gradient-4"
        id="linearGradient4608"
        gradientUnits="userSpaceOnUse"
        x1="0"
@@ -66,13 +66,13 @@
        y2="70" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4615"
-       id="linearGradient4617"
-       x1="0"
+       xlink:href="#linearGradient4660"
+       id="linearGradient4666"
+       gradientUnits="userSpaceOnUse"
+       x1="-0.5"
        y1="64"
-       x2="128"
-       y2="64"
-       gradientUnits="userSpaceOnUse" />
+       x2="128.5"
+       y2="64" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -114,7 +114,7 @@
        id="g818"
        style="opacity:1">
       <path
-         style="opacity:1;fill:url(#linearGradient4608);fill-opacity:1;stroke:url(#linearGradient4617)"
+         style="opacity:1;fill:url(#linearGradient4608);fill-opacity:1;stroke:url(#linearGradient4666);stroke-opacity:1;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
          d="M 0,0 V 44.25 50 78 83.75 128 h 44.25 10 19.5 10 H 128 V 83.75 78 44.25 C 128,19.7355 108.2645,0 83.75,0 h -29.5 -10 z"
          id="path4596"
          inkscape:connector-curvature="0" />
