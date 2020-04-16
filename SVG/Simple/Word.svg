@@ -17,7 +17,7 @@
    id="SVGRoot"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="Word.svg"
-   inkscape:export-filename="C:\Users\drewn\Documents\0GitHub\applauncher-icons\SVG\base image with stroke gradient.png"
+   inkscape:export-filename="C:\Users\drewn\Documents\0GitHub\applauncher-icons\SVG\Simple\word.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -139,14 +139,16 @@
       <text
          xml:space="preserve"
          style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.33333588px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         x="13.710285"
-         y="97.313805"
-         id="text5338"><tspan
+         x="18.020832"
+         y="94.458336"
+         id="text5338"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
            sodipodi:role="line"
            id="tspan5336"
-           x="13.710285"
-           y="97.313805"
-           style="fill:#ffffff">W</tspan></text>
+           x="18.020832"
+           y="94.458336"
+           style="font-size:85.33333588px;fill:#ffffff">W</tspan></text>
     </g>
   </g>
 </svg>
