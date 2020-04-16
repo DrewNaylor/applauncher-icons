@@ -40,7 +40,7 @@
                 </Rectangle>-->
         <Canvas Width="256" Height="256" SnapsToDevicePixels="True" RenderTransformOrigin="0,1" x:Name="IconCanvas" Margin="0,0,261,0">
             <Canvas.OpacityMask>
-                <RadialGradientBrush Center="0,256" GradientOrigin="0,128" MappingMode="Absolute" RadiusY="256" RadiusX="256">
+                <RadialGradientBrush Center="32,256" MappingMode="Absolute" RadiusY="256" RadiusX="256">
                         <RadialGradientBrush.Transform>
                             <TransformGroup>
                                 <ScaleTransform ScaleX="1.25" ScaleY="1.25" CenterX="128" CenterY="128"/>
