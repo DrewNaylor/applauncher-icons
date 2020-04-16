@@ -30,13 +30,17 @@
          offset="0"
          style="stop-color:#00009d;stop-opacity:1" />
       <stop
-         style="stop-color:#2f59ff;stop-opacity:1"
+         style="stop-color:#0020bf;stop-opacity:1;"
+         offset="0.37305698"
+         id="stop4747" />
+      <stop
+         style="stop-color:#0031f7;stop-opacity:0.78431374"
          offset="0.60000002"
          id="stop4739" />
       <stop
          id="stop4733"
          offset="1"
-         style="stop-color:#3565ff;stop-opacity:0.79151946" />
+         style="stop-color:#3565ff;stop-opacity:0.6875" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -73,9 +77,9 @@
        xlink:href="#linearGradient4735"
        id="linearGradient4724"
        gradientUnits="userSpaceOnUse"
-       x1="56"
+       x1="31.25"
        y1="64"
-       x2="98.75"
+       x2="127.75"
        y2="64" />
   </defs>
   <sodipodi:namedview
