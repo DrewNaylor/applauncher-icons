@@ -42,7 +42,8 @@
        y1="71.077904"
        x2="127.80956"
        y2="71.077904"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(145.75,5.75)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -51,9 +52,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="52.938434"
-     inkscape:cy="67.286779"
+     inkscape:zoom="4"
+     inkscape:cx="94.246493"
+     inkscape:cy="67.911779"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -80,11 +81,17 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g27">
+       id="g27"
+       transform="translate(26,-5)">
       <path
          id="rect3741"
-         style="fill-opacity:1;fill:url(#linearGradient4576)"
-         d="M 76.897858,89.993011 H 127.98632 V 128 H 76.897858 Z M 0,75.850876 H 58.336311 V 128 H 0 Z M 0,0.0136725 H 48.436813 V 40.318761 H 0 Z m 29.168154,0 h 69.65002 c 16.159156,0 29.168156,13.0089965 29.168156,29.1681535 V 98.831847 C 127.98633,114.991 114.97733,128 98.818174,128 H 29.168154 C 13.008997,128 0,114.991 0,98.831847 V 29.181826 C 0,13.022669 13.008997,0.0136725 29.168154,0.0136725 Z" />
+         style="fill:url(#linearGradient4576);fill-opacity:1"
+         d="m 222.64786,95.743011 h 51.08846 V 133.75 H 222.64786 Z M 145.75,81.600876 h 58.33631 V 133.75 H 145.75 Z m 0,-75.8372035 h 48.43681 V 46.068761 H 145.75 Z m 29.16816,0 h 69.65002 c 16.15915,0 29.16815,13.0089965 29.16815,29.1681535 v 69.650024 c 0,16.15915 -13.009,29.16815 -29.16815,29.16815 H 174.91816 C 158.759,133.75 145.75,120.741 145.75,104.58185 V 34.931826 c 0,-16.159157 13.009,-29.1681535 29.16816,-29.1681535 z"
+         inkscape:connector-curvature="0" />
     </g>
+    <path
+       id="rect824-07"
+       style="fill:#3565ff;fill-opacity:1"
+       d="M 0,0 H 54.25 V 50 H 0 Z M 73.75,78 H 128 v 50 H 73.75 Z M 0,78 h 54.25 v 50 H 0 Z M 44.25,0 h 39.5 C 108.2645,0 128,19.7355 128,44.25 v 39.5 C 128,108.2645 108.2645,128 83.75,128 H 44.25 C 19.7355,128 0,108.2645 0,83.75 V 44.25 C 0,19.7355 19.7355,0 44.25,0 Z" />
   </g>
 </svg>
