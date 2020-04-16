@@ -24,26 +24,25 @@
      id="defs3713">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient4574">
+       id="linearGradient858">
       <stop
-         style="stop-color:#003cff;stop-opacity:1;"
+         style="stop-color:#003cff;stop-opacity:1"
          offset="0"
-         id="stop4570" />
+         id="stop854" />
       <stop
          style="stop-color:#3565ff;stop-opacity:1"
          offset="1"
-         id="stop4572" />
+         id="stop856" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4574"
-       id="linearGradient4576"
-       x1="-0.17677669"
-       y1="71.077904"
-       x2="127.80956"
-       y2="71.077904"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(145.75,5.75)" />
+       xlink:href="#linearGradient858"
+       id="linearGradient860"
+       x1="0"
+       y1="70"
+       x2="128.25"
+       y2="70"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -53,7 +52,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="94.246493"
+     inkscape:cx="53.121492"
      inkscape:cy="67.911779"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -85,13 +84,13 @@
        transform="translate(26,-5)">
       <path
          id="rect3741"
-         style="fill:url(#linearGradient4576);fill-opacity:1"
+         style="fill:#3565ff;fill-opacity:1"
          d="m 222.64786,95.743011 h 51.08846 V 133.75 H 222.64786 Z M 145.75,81.600876 h 58.33631 V 133.75 H 145.75 Z m 0,-75.8372035 h 48.43681 V 46.068761 H 145.75 Z m 29.16816,0 h 69.65002 c 16.15915,0 29.16815,13.0089965 29.16815,29.1681535 v 69.650024 c 0,16.15915 -13.009,29.16815 -29.16815,29.16815 H 174.91816 C 158.759,133.75 145.75,120.741 145.75,104.58185 V 34.931826 c 0,-16.159157 13.009,-29.1681535 29.16816,-29.1681535 z"
          inkscape:connector-curvature="0" />
     </g>
     <path
        id="rect824-07"
-       style="fill:#3565ff;fill-opacity:1"
+       style="fill:url(#linearGradient860);fill-opacity:1"
        d="M 0,0 H 54.25 V 50 H 0 Z M 73.75,78 H 128 v 50 H 73.75 Z M 0,78 h 54.25 v 50 H 0 Z M 44.25,0 h 39.5 C 108.2645,0 128,19.7355 128,44.25 v 39.5 C 128,108.2645 108.2645,128 83.75,128 H 44.25 C 19.7355,128 0,108.2645 0,83.75 V 44.25 C 0,19.7355 19.7355,0 44.25,0 Z" />
   </g>
 </svg>
