@@ -52,13 +52,13 @@
       <stop
          id="stop4731"
          offset="0"
-         style="stop-color:#009c35;stop-opacity:1" />
+         style="stop-color:#037851;stop-opacity:1" />
       <stop
-         style="stop-color:#00bf3d;stop-opacity:1"
+         style="stop-color:#037851;stop-opacity:1"
          offset="0.16580309"
          id="stop4747" />
       <stop
-         style="stop-color:#00f84f;stop-opacity:0.78431374"
+         style="stop-color:#037851;stop-opacity:0.50196081"
          offset="0.46010363"
          id="stop4739" />
       <stop
@@ -117,9 +117,9 @@
        inkscape:collect="always"
        xlink:href="#linearGradient836"
        id="linearGradient838"
-       x1="32.934898"
+       x1="29.934898"
        y1="68.727867"
-       x2="93.880211"
+       x2="122.88021"
        y2="68.727867"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(0.70572662,16.65625)" />
@@ -132,7 +132,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="48.582944"
+     inkscape:cx="46.038739"
      inkscape:cy="78.040448"
      inkscape:document-units="px"
      inkscape:current-layer="g818"
@@ -172,7 +172,7 @@
          inkscape:export-ydpi="96" />
       <text
          xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.33333588px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:url(#linearGradient838);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.33333588px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:url(#linearGradient838);stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
          x="64.65625"
          y="110.65625"
          id="text5338"
@@ -182,7 +182,7 @@
            id="tspan5336"
            x="64.65625"
            y="110.65625"
-           style="font-size:128px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:url(#linearGradient838);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none">X</tspan></text>
+           style="font-size:128px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:url(#linearGradient838);stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none">X</tspan></text>
     </g>
   </g>
 </svg>
