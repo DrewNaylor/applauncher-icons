@@ -117,11 +117,12 @@
        inkscape:collect="always"
        xlink:href="#linearGradient836"
        id="linearGradient838"
-       x1="33.184897"
-       y1="68.727864"
+       x1="32.934898"
+       y1="68.727867"
        x2="93.880211"
        y2="68.727867"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2.5,18)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -130,9 +131,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="47.020444"
-     inkscape:cy="66.32341"
+     inkscape:zoom="4"
+     inkscape:cx="48.582944"
+     inkscape:cy="78.040448"
      inkscape:document-units="px"
      inkscape:current-layer="g818"
      showgrid="false"
@@ -171,17 +172,17 @@
          inkscape:export-ydpi="96" />
       <text
          xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.33333588px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:url(#linearGradient838)"
-         x="63.950523"
-         y="94"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.33333588px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:url(#linearGradient838);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         x="61.450523"
+         y="112"
          id="text5338"
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96"><tspan
            sodipodi:role="line"
            id="tspan5336"
-           x="63.950523"
-           y="94"
-           style="font-size:69.33333588px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:url(#linearGradient838)">X</tspan></text>
+           x="61.450523"
+           y="112"
+           style="font-size:128px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:url(#linearGradient838);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none">X</tspan></text>
     </g>
   </g>
 </svg>
