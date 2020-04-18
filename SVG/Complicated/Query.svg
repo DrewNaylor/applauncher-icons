@@ -23,7 +23,24 @@
   <defs
      id="defs815">
     <radialGradient
-       id="radialGradient5910"
+       inkscape:collect="always"
+       gradientTransform="matrix(2.0916,0.39594,-1.3654,7.213,627.09,-3497.4)"
+       r="28.734"
+       cy="556.38"
+       cx="126.49"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient5910">
+      <stop
+         offset="0"
+         style="stop-color:#00242a;stop-opacity:1"
+         id="stop5920" />
+      <stop
+         offset="1"
+         style="stop-color:#74878a"
+         id="stop5924" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient5910-3"
        gradientUnits="userSpaceOnUse"
        cx="126.49"
        cy="556.38"
@@ -424,12 +441,21 @@
        r="28.734" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#radialGradient5910"
+       xlink:href="#radialGradient5910-3"
        id="linearGradient5902"
        x1="-11.098573"
        y1="76.08783"
        x2="57.136993"
        y2="8.5113087"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient5910"
+       id="linearGradient5918"
+       x1="115.30035"
+       y1="38.194267"
+       x2="53.058609"
+       y2="5.3138037"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -440,8 +466,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="21.205713"
-     inkscape:cy="81.430037"
+     inkscape:cx="53.025518"
+     inkscape:cy="102.64324"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -1118,7 +1144,7 @@ dLhS/ECn09lRK8MDQLvd2oXtx3gMf+nKNTQajVvOMAuLS7e24b/x/Ivb7v12Ta7bht9+jO3x/wHu
        inkscape:connector-curvature="0"
        id="path5615"
        d="m 52.004845,4.3398222 c 19.567536,-6.949306 61.650325,-2.8247945 61.662585,3.7834812 l 0.22858,27.9313686 -8.20585,-0.0042 c 0,0 0.11024,-1.809994 0.22964,-4.484039 0.3243,-7.264052 1.16456,-22.7315951 -3.61897,-23.2465773 C 86.669929,6.6370729 55.360743,3.8475417 53.230253,7.2011669"
-       style="display:inline;fill:#767676;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       style="display:inline;fill:url(#linearGradient5918);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <rect
        style="fill:#929292;fill-opacity:1;stroke-width:1.37292242"
        id="rect5637"
