@@ -30,7 +30,19 @@
          offset="0"
          id="stop4685" />
       <stop
-         style="stop-color:#21e20a;stop-opacity:1"
+         id="stop4691"
+         offset="0.5828144"
+         style="stop-color:#18d714;stop-opacity:1" />
+      <stop
+         style="stop-color:#1ddd0d;stop-opacity:1;"
+         offset="0.6142754"
+         id="stop4697" />
+      <stop
+         style="stop-color:#22e309;stop-opacity:1;"
+         offset="0.63944417"
+         id="stop4695" />
+      <stop
+         style="stop-color:#2cee00;stop-opacity:1"
          offset="1"
          id="stop4687" />
     </linearGradient>
@@ -65,6 +77,10 @@
          id="stop873"
          offset="0"
          style="stop-color:#00bb31;stop-opacity:1" />
+      <stop
+         style="stop-color:#18d714;stop-opacity:1;"
+         offset="0.56822109"
+         id="stop4693" />
       <stop
          style="stop-color:#1ad913;stop-opacity:1;"
          offset="0.60449052"
@@ -177,8 +193,40 @@
        gradientTransform="translate(0.59635161,8.8802074)"
        x1="29.934898"
        y1="68.727867"
-       x2="111.63021"
+       x2="149.13022"
        y2="68.727867" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter4911">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4901" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4903" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur4905" />
+      <feOffset
+         dx="3"
+         dy="3"
+         result="offset"
+         id="feOffset4907" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite4909" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -187,9 +235,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
+     inkscape:zoom="5.6568542"
      inkscape:cx="46.038739"
-     inkscape:cy="78.040448"
+     inkscape:cy="75.959142"
      inkscape:document-units="px"
      inkscape:current-layer="g818"
      showgrid="false"
@@ -228,7 +276,7 @@
          inkscape:export-ydpi="96" />
       <text
          xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.33333588px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:url(#linearGradient4681);stroke-width:5.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.33333588px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:url(#linearGradient4681);stroke-width:5.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4911)"
          x="64.546875"
          y="102.88021"
          id="text5338"
