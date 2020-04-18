@@ -973,11 +973,10 @@ dLhS/ECn09lRK8MDQLvd2oXtx3gMf+nKNTQajVvOMAuLS7e24b/x/Ivb7v12Ta7bht9+jO3x/wHu
          id="path4113" />
     </g>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 112.96031,36.783224 C 105.11893,-11.990714 4.0658639,-7.7158442 4.0658639,44.207846"
-       id="path5573"
-       inkscape:connector-type="polyline"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 113.49064,36.252895 C 83.970278,36.776771 57.176649,-24.181312 9.3691649,64.89072 L 2.298097,47.74338 H 8.8388348 C 12.091868,-6.176466 69.038206,9.6466818 113.13709,5.3169734 Z"
+       id="path5577"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cccccc" />
   </g>
 </svg>
