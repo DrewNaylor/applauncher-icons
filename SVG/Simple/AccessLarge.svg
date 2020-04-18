@@ -17,7 +17,7 @@
    id="SVGRoot"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="AccessLarge.svg"
-   inkscape:export-filename="C:\Users\Drew\Documents\0GitHub\Office App Launcher Icons\applauncher-icons\SVG\Simple\excel gradient text.png"
+   inkscape:export-filename="C:\Users\Drew\Documents\0GitHub\Office App Launcher Icons\applauncher-icons\SVG\Simple\AccessLargeSVG-3D.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -246,7 +246,7 @@
        xlink:href="#linearGradient925"
        id="linearGradient917"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(5.2161496,0.58333298)"
+       gradientTransform="translate(0.9661496,0.58333024)"
        x1="29.934898"
        y1="68.727867"
        x2="149.13022"
@@ -301,14 +301,14 @@
       <text
          xml:space="preserve"
          style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.33333588px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:url(#linearGradient917);stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter5487)"
-         x="69.166664"
+         x="64.916664"
          y="94.583336"
          id="text5338"
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96"><tspan
            sodipodi:role="line"
            id="tspan5336"
-           x="69.166664"
+           x="64.916664"
            y="94.583336"
            style="font-size:85.33333588px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:url(#linearGradient917);stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">A</tspan></text>
     </g>
