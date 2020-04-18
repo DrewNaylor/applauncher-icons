@@ -10,7 +10,9 @@ No warranty is provided with applauncher-icons. Use at your own risk. Drew Naylo
 
 [applauncher-icons version 2.0](https://github.com/DrewNaylor/applauncher-icons/releases/tag/v2.0) is the first version to be licensed under the Creative Commons Attribution 4.0 International License. If you want to use icons from applauncher-icons with the CC BY 4.0 license in your own application or project, simply state that you are using applauncher-icons version 2.0, along with the required attribution information. However, if you don't say that you're using version 2.0, the previous license will apply because that was the license that was used when [applauncher-icons version 1.0](https://github.com/DrewNaylor/applauncher-icons/releases/tag/v1.0) was released. You don't need to use applauncher-icons version 2.0 if you don't want to. None of the actual icons have been changed between 1.0 and 2.0.
 
-If you want the source of the icons in the "Complicated" folder then here are the sources that I (Drew Naylor) found the clipart. Note that I combined the clipart together to make the icons. I made the icons in the "Simple" folder all on my own using GIMP's Blend tool.
+If you want the source of the icons in the "Complicated" folder then here are the sources that I (Drew Naylor) found the clipart. Note that I combined the clipart together to make the icons. I made the icons in the "Simple" folder all on my own using GIMP's Blend tool for versions prior to 3.0.
+
+SVG icons in version 3.0 were made in Inkscape, with some files using the original GIMP gradients (some don't, so they're slightly different, but for the most part they're close enough). Additionally, the Picture Manager and Clip Organizer icons were downscaled using Inkscape for better display in UXL Launcher. 128x128 icons will be available in 3.0 alongside the primary 64x64 ones that UXL Launcher uses, as well as the small, 24x24 icons for various application menus like `New`. For text to display correctly in the source files, Open Sans Bold Italic must be installed.
 
 This isn't technically clipart but it might be interesting:
 - https://openclipart.org/detail/216302/io-stack-of-the-linux-kernel
