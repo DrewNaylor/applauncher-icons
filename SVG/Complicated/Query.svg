@@ -994,8 +994,15 @@ dLhS/ECn09lRK8MDQLvd2oXtx3gMf+nKNTQajVvOMAuLS7e24b/x/Ivb7v12Ta7bht9+jO3x/wHu
        sodipodi:insensitive="true" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.77258182px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 52.551968,5.055816 0.177313,-0.060181"
+       d="m 52.553361,5.0596449 0.174527,-0.067839"
        id="path5620"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:label="gap fixer" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.77258182px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 52.569872,4.8089371 0.174971,-0.066685"
+       id="path5620-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
        inkscape:label="gap fixer" />
