@@ -250,7 +250,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="42.993902"
+     inkscape:cx="39.868902"
      inkscape:cy="66.32341"
      inkscape:document-units="px"
      inkscape:current-layer="g818"
@@ -290,7 +290,7 @@
          inkscape:export-ydpi="96" />
       <text
          xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.33333588px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:url(#linearGradient4681);stroke-width:5.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter5487)"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.33333588px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:url(#linearGradient4681);stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter5487)"
          x="56.1875"
          y="94.458336"
          id="text5338-3"
@@ -300,7 +300,7 @@
            id="tspan5336-7"
            x="56.1875"
            y="94.458336"
-           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:85.33333588px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';text-align:center;text-anchor:middle;fill:#ffffff;stroke:url(#linearGradient4681);stroke-width:5.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none">W</tspan></text>
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:85.33333588px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';text-align:center;text-anchor:middle;fill:#ffffff;stroke:url(#linearGradient4681);stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">W</tspan></text>
     </g>
   </g>
 </svg>
