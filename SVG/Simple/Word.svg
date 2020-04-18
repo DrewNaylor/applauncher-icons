@@ -23,6 +23,30 @@
   <defs
      id="defs3713">
     <linearGradient
+       id="linearGradient881"
+       inkscape:collect="always">
+      <stop
+         id="stop871"
+         offset="0"
+         style="stop-color:#00009d;stop-opacity:1" />
+      <stop
+         style="stop-color:#18d714;stop-opacity:1"
+         offset="0.5828144"
+         id="stop873" />
+      <stop
+         id="stop875"
+         offset="0.6142754"
+         style="stop-color:#1ddd0d;stop-opacity:1;" />
+      <stop
+         id="stop877"
+         offset="0.63944417"
+         style="stop-color:#22e309;stop-opacity:1;" />
+      <stop
+         id="stop879"
+         offset="1"
+         style="stop-color:#2cee00;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient4735"
        inkscape:collect="always">
       <stop
@@ -91,7 +115,7 @@
        y2="64" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4689"
+       xlink:href="#linearGradient881"
        id="linearGradient4681"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-9.7161453,8.0729235)"
