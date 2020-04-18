@@ -138,7 +138,7 @@
        xlink:href="#linearGradient881"
        id="linearGradient4681"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-9.7161453,8.0729235)"
+       gradientTransform="translate(-9.7161462,8.072932)"
        x1="29.934898"
        y1="68.727867"
        x2="149.13022"
@@ -209,6 +209,38 @@
        y1="68.727867"
        x2="149.13022"
        y2="68.727867" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter963">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood953" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite955" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur957" />
+      <feOffset
+         dx="3"
+         dy="3"
+         result="offset"
+         id="feOffset959" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite961" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -217,7 +249,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
+     inkscape:zoom="4"
      inkscape:cx="83.618902"
      inkscape:cy="66.32341"
      inkscape:document-units="px"
@@ -250,7 +282,7 @@
        id="g818"
        style="opacity:1">
       <path
-         style="opacity:1;fill:url(#linearGradient4608);fill-opacity:1;stroke:url(#linearGradient4724);stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:url(#linearGradient4608);fill-opacity:1;stroke:url(#linearGradient4724);stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter963)"
          d="M 0,0 V 44.25 50 78 83.75 128 h 44.25 10 19.5 10 H 128 V 83.75 78 44.25 C 128,19.7355 108.2645,0 83.75,0 h -29.5 -10 z"
          id="path4596"
          inkscape:connector-curvature="0"
