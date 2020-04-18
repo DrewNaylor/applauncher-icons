@@ -12,8 +12,10 @@ No warranty is provided with applauncher-icons. Use at your own risk. Drew Naylo
 
 If you want the source of the icons in the "Complicated" folder then here are the sources that I (Drew Naylor) found the clipart. Note that I combined the clipart together to make the icons. I made the icons in the "Simple" folder all on my own using GIMP's Blend tool for versions prior to 3.0.
 
-SVG icons in version 3.0 were made in Inkscape, with some files using the original GIMP gradients (some don't, so they're slightly different, but for the most part they're close enough). Additionally, the Picture Manager and Clip Organizer icons were downscaled using Inkscape for better display in UXL Launcher. 128x128 icons will be available in 3.0 alongside the primary 64x64 ones that UXL Launcher uses, as well as the small, 24x24 icons for various application menus like `New`. For text to display correctly in the source files, Open Sans Bold Italic must be installed.
+SVG icons in version 3.0 were made in Inkscape, with some files using the original GIMP gradients (some don't, so they're slightly different, but for the most part they're close enough). Additionally, the Picture Manager and Clip Organizer icons were downscaled using Inkscape for better display in UXL Launcher. 128x128 icons will be available in 3.0 alongside the primary 64x64 ones that UXL Launcher uses, as well as the small, 24x24 icons for various application menus like `New`. For text to display correctly in the source files, Open Sans Bold Italic must be installed except for Infopath's source file, which uses Times New Roman instead.
 
+
+## Image Sources
 This isn't technically clipart but it might be interesting:
 - https://openclipart.org/detail/216302/io-stack-of-the-linux-kernel
 
