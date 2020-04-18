@@ -17,7 +17,7 @@
    id="SVGRoot"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="WordLarge.svg"
-   inkscape:export-filename="C:\Users\Drew\Documents\0GitHub\Office App Launcher Icons\applauncher-icons\SVG\Simple\WordLargeSVG-3D.png"
+   inkscape:export-filename="C:\Users\drewn\Documents\0GitHub\applauncher-icons\Completed\Simple\shadow only\apps\128x128\WordLargeSVG-3D-128x128.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -213,15 +213,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="2.368902"
+     inkscape:cx="0.25"
      inkscape:cy="66.32341"
      inkscape:document-units="px"
      inkscape:current-layer="g818"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:grid-bbox="true"
      inkscape:snap-page="false" />
@@ -253,7 +253,7 @@
          inkscape:export-ydpi="96" />
       <text
          xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.33333588px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:url(#linearGradient4681);stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter5487)"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.33333588px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;filter:url(#filter5487);"
          x="56.1875"
          y="94.458336"
          id="text5338-3"
@@ -263,7 +263,7 @@
            id="tspan5336-7"
            x="56.1875"
            y="94.458336"
-           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:85.33333588px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';text-align:center;text-anchor:middle;fill:#ffffff;stroke:url(#linearGradient4681);stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">W</tspan></text>
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:85.33333588px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';text-align:center;text-anchor:middle;fill:#ffffff;">W</tspan></text>
     </g>
   </g>
 </svg>
