@@ -23,6 +23,24 @@
   <defs
      id="defs3713">
     <linearGradient
+       id="linearGradient925">
+      <stop
+         stop-color="#ff2765"
+         offset="0"
+         id="stop919"
+         style="stop-color:#bc0040;stop-opacity:1" />
+      <stop
+         stop-color="#ff3370"
+         offset="0.502674"
+         id="stop921"
+         style="stop-color:#ff3572;stop-opacity:1" />
+      <stop
+         stop-color="#ff407c"
+         offset="1"
+         id="stop923"
+         style="stop-color:#ff3576;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient915">
       <stop
          stop-color="#ff3370"
@@ -32,30 +50,6 @@
          stop-color="#ff407c"
          offset="1"
          id="stop913" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4689">
-      <stop
-         style="stop-color:#037851;stop-opacity:1"
-         offset="0"
-         id="stop4685" />
-      <stop
-         id="stop4691"
-         offset="0.5828144"
-         style="stop-color:#18d714;stop-opacity:1" />
-      <stop
-         style="stop-color:#1ddd0d;stop-opacity:1;"
-         offset="0.6142754"
-         id="stop4697" />
-      <stop
-         style="stop-color:#22e309;stop-opacity:1;"
-         offset="0.63944417"
-         id="stop4695" />
-      <stop
-         style="stop-color:#2cee00;stop-opacity:1"
-         offset="1"
-         id="stop4687" />
     </linearGradient>
     <linearGradient
        id="linearGradient4667"
@@ -121,16 +115,6 @@
        x1="29.934898"
        y1="68.727867"
        x2="120.63021"
-       y2="68.727867" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4689"
-       id="linearGradient4681"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-0.86718464,0.45833434)"
-       x1="29.934898"
-       y1="68.727867"
-       x2="149.13022"
        y2="68.727867" />
     <filter
        style="color-interpolation-filters:sRGB;"
@@ -239,6 +223,11 @@
          offset="0.502674"
          stop-color="#ff3370" />
       <stop
+         stop-color="#ff3370"
+         offset="0.6148532"
+         id="stop943"
+         style="stop-color:#ff3572;stop-opacity:1;" />
+      <stop
          id="stop873-1"
          offset="1"
          stop-color="#ff407c" />
@@ -252,6 +241,16 @@
        y1="70"
        x2="144.75"
        y2="70" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient925"
+       id="linearGradient917"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.86718464,0.45833434)"
+       x1="29.934898"
+       y1="68.727867"
+       x2="149.13022"
+       y2="68.727867" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -260,7 +259,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
+     inkscape:zoom="8"
      inkscape:cx="41.999999"
      inkscape:cy="68.635"
      inkscape:document-units="px"
@@ -293,7 +292,7 @@
        id="g818"
        style="opacity:1">
       <path
-         style="opacity:1;fill:url(#linearGradient889);fill-opacity:1;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:url(#linearGradient889);fill-opacity:1;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;stroke:#ff3972"
          d="M 0,0 V 44.25 50 78 83.75 128 h 44.25 10 19.5 10 H 128 V 83.75 78 44.25 C 128,19.7355 108.2645,0 83.75,0 h -29.5 -10 z"
          id="path4596"
          inkscape:connector-curvature="0"
@@ -301,7 +300,7 @@
          inkscape:export-ydpi="96" />
       <text
          xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.33333588px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:url(#linearGradient4681);stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter5487)"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.33333588px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:url(#linearGradient917);stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter5487)"
          x="63.083332"
          y="94.458336"
          id="text5338"
@@ -311,7 +310,7 @@
            id="tspan5336"
            x="63.083332"
            y="94.458336"
-           style="font-size:85.33333588px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:url(#linearGradient4681);stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">A</tspan></text>
+           style="font-size:85.33333588px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:url(#linearGradient917);stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">A</tspan></text>
     </g>
   </g>
 </svg>
