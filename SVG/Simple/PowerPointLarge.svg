@@ -16,7 +16,7 @@
    version="1.1"
    id="SVGRoot"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="AccessLarge.svg"
+   sodipodi:docname="PowerPointLarge.svg"
    inkscape:export-filename="C:\Users\Drew\Documents\0GitHub\Office App Launcher Icons\applauncher-icons\SVG\Simple\AccessLargeSVG-3D.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -234,7 +234,7 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient875"
+       xlink:href="#linearGradient866"
        id="linearGradient889"
        gradientUnits="userSpaceOnUse"
        x1="0"
@@ -251,6 +251,21 @@
        y1="68.727867"
        x2="149.13022"
        y2="68.727867" />
+    <linearGradient
+       id="linearGradient866">
+      <stop
+         id="stop860"
+         offset="0"
+         stop-color="#f58c05" />
+      <stop
+         id="stop862"
+         offset="0.502674"
+         stop-color="#fa9e15" />
+      <stop
+         id="stop864"
+         offset="1"
+         stop-color="#ffb025" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -260,7 +275,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="57.292526"
+     inkscape:cx="53.026723"
      inkscape:cy="63.635"
      inkscape:document-units="px"
      inkscape:current-layer="g818"
@@ -292,7 +307,7 @@
        id="g818"
        style="opacity:1">
       <path
-         style="opacity:1;fill:url(#linearGradient889);fill-opacity:1;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;stroke:#ff3972"
+         style="opacity:1;fill:url(#linearGradient889);fill-opacity:1.0;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;stroke:#ff3972"
          d="M 0,0 V 44.25 50 78 83.75 128 h 44.25 10 19.5 10 H 128 V 83.75 78 44.25 C 128,19.7355 108.2645,0 83.75,0 h -29.5 -10 z"
          id="path4596"
          inkscape:connector-curvature="0"
