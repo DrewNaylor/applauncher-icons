@@ -190,7 +190,7 @@
        xlink:href="#linearGradient4689"
        id="linearGradient4681"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0.59635161,8.8802074)"
+       gradientTransform="translate(-0.86718635,0.45833761)"
        x1="29.934898"
        y1="68.727867"
        x2="149.13022"
@@ -299,9 +299,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="17.312526"
-     inkscape:cy="75.959142"
+     inkscape:zoom="4"
+     inkscape:cx="85.749999"
+     inkscape:cy="68.635"
      inkscape:document-units="px"
      inkscape:current-layer="g818"
      showgrid="false"
@@ -340,17 +340,17 @@
          inkscape:export-ydpi="96" />
       <text
          xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.33333588px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:url(#linearGradient4681);stroke-width:5.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter5487)"
-         x="64.546875"
-         y="102.88021"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.33333588px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:url(#linearGradient4681);stroke-width:5.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter5487)"
+         x="63.083332"
+         y="94.458336"
          id="text5338"
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96"><tspan
            sodipodi:role="line"
            id="tspan5336"
-           x="64.546875"
-           y="102.88021"
-           style="font-size:106.66666412px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:url(#linearGradient4681);stroke-width:5.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;">X</tspan></text>
+           x="63.083332"
+           y="94.458336"
+           style="font-size:85.33333588px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:url(#linearGradient4681);stroke-width:5.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none">X</tspan></text>
     </g>
   </g>
 </svg>
