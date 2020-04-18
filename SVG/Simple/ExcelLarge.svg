@@ -153,7 +153,7 @@
        xlink:href="#linearGradient4689"
        id="linearGradient4681"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-0.86718464,0.45833434)"
+       gradientTransform="translate(-3.1171846,0.45833107)"
        x1="29.934898"
        y1="68.727867"
        x2="149.13022"
@@ -263,7 +263,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="45.124999"
+     inkscape:cx="1.374999"
      inkscape:cy="68.635"
      inkscape:document-units="px"
      inkscape:current-layer="g818"
@@ -304,14 +304,14 @@
       <text
          xml:space="preserve"
          style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.33333588px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:url(#linearGradient4681);stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter5487)"
-         x="63.083332"
+         x="60.833332"
          y="94.458336"
          id="text5338"
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96"><tspan
            sodipodi:role="line"
            id="tspan5336"
-           x="63.083332"
+           x="60.833332"
            y="94.458336"
            style="font-size:85.33333588px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:url(#linearGradient4681);stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">X</tspan></text>
     </g>
