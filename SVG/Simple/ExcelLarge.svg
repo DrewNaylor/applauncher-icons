@@ -200,7 +200,7 @@
        inkscape:label="Drop Shadow"
        id="filter4911">
       <feFlood
-         flood-opacity="0.498039"
+         flood-opacity="0.41999999999999998"
          flood-color="rgb(0,0,0)"
          result="flood"
          id="feFlood4901" />
@@ -229,7 +229,7 @@
     </filter>
     <filter
        style="color-interpolation-filters:sRGB;"
-       inkscape:label="Drop Shadow"
+       inkscape:label="Inner icon shadow"
        id="filter5115">
       <feFlood
          flood-opacity="0.498039"
@@ -259,6 +259,38 @@
          result="composite2"
          id="feComposite5113" />
     </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter5487">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5477" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5479" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2.425"
+         result="blur"
+         id="feGaussianBlur5481" />
+      <feOffset
+         dx="3"
+         dy="3"
+         result="offset"
+         id="feOffset5483" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5485" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -268,7 +300,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6568542"
-     inkscape:cx="46.038739"
+     inkscape:cx="17.312526"
      inkscape:cy="75.959142"
      inkscape:document-units="px"
      inkscape:current-layer="g818"
@@ -308,7 +340,7 @@
          inkscape:export-ydpi="96" />
       <text
          xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.33333588px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:url(#linearGradient4681);stroke-width:5.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4911)"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.33333588px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:url(#linearGradient4681);stroke-width:5.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter5487)"
          x="64.546875"
          y="102.88021"
          id="text5338"
@@ -318,7 +350,7 @@
            id="tspan5336"
            x="64.546875"
            y="102.88021"
-           style="font-size:106.66666412px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:url(#linearGradient4681);stroke-width:5.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none">X</tspan></text>
+           style="font-size:106.66666412px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:url(#linearGradient4681);stroke-width:5.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;">X</tspan></text>
     </g>
   </g>
 </svg>
