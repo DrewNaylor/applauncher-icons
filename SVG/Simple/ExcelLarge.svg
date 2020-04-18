@@ -99,34 +99,6 @@
          style="stop-color:#2cee00;stop-opacity:1" />
     </linearGradient>
     <linearGradient
-       id="linearGradient4735"
-       inkscape:collect="always">
-      <stop
-         id="stop4731"
-         offset="0"
-         style="stop-color:#037851;stop-opacity:1" />
-      <stop
-         style="stop-color:#00bf3d;stop-opacity:1"
-         offset="0.16580309"
-         id="stop4747" />
-      <stop
-         style="stop-color:#1ad913;stop-opacity:0"
-         offset="0.46010363"
-         id="stop4739" />
-      <stop
-         id="stop4751"
-         offset="0.60621762"
-         style="stop-color:#03f751;stop-opacity:0" />
-      <stop
-         id="stop4749"
-         offset="0.74611396"
-         style="stop-color:#08f855;stop-opacity:0" />
-      <stop
-         id="stop4733"
-         offset="1"
-         style="stop-color:#3565ff;stop-opacity:0" />
-    </linearGradient>
-    <linearGradient
        inkscape:collect="always"
        id="main_gradient-4-2">
       <stop
@@ -156,15 +128,6 @@
        y1="70"
        x2="144.75"
        y2="70" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4735"
-       id="linearGradient4724"
-       gradientUnits="userSpaceOnUse"
-       x1="53.75"
-       y1="64"
-       x2="127.75"
-       y2="64" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient836"
@@ -300,7 +263,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="85.749999"
+     inkscape:cx="45.124999"
      inkscape:cy="68.635"
      inkscape:document-units="px"
      inkscape:current-layer="g818"
@@ -332,7 +295,7 @@
        id="g818"
        style="opacity:1">
       <path
-         style="opacity:1;fill:url(#linearGradient4608);fill-opacity:1;stroke:url(#linearGradient4724);stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+         style="opacity:1;fill:url(#linearGradient4608);fill-opacity:1;"
          d="M 0,0 V 44.25 50 78 83.75 128 h 44.25 10 19.5 10 H 128 V 83.75 78 44.25 C 128,19.7355 108.2645,0 83.75,0 h -29.5 -10 z"
          id="path4596"
          inkscape:connector-curvature="0"
