@@ -16,8 +16,8 @@
    version="1.1"
    id="SVGRoot"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="WordSmall.svg"
-   inkscape:export-filename="C:\Users\drewn\Documents\0GitHub\applauncher-icons\Completed\Simple\24X24\WordSmallSVG-24x24.png"
+   sodipodi:docname="WordNewDocument.svg"
+   inkscape:export-filename="C:\Users\drewn\Documents\0GitHub\applauncher-icons\Completed\Simple\actions\24x24\WordNewDocument.png"
    inkscape:export-xdpi="18"
    inkscape:export-ydpi="18">
   <defs
@@ -179,7 +179,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="-45.25"
+     inkscape:cx="32.75"
      inkscape:cy="66.32341"
      inkscape:document-units="px"
      inkscape:current-layer="g818"
@@ -230,6 +230,17 @@
            x="56.1875"
            y="94.458336"
            style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:85.33333588px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';text-align:center;text-anchor:middle;fill:#ffffff;">W</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.33333588px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="78.735672"
+         y="138.34505"
+         id="text847"><tspan
+           sodipodi:role="line"
+           id="tspan845"
+           x="78.735672"
+           y="138.34505"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ffffff;fill-opacity:1">+</tspan></text>
     </g>
   </g>
 </svg>
