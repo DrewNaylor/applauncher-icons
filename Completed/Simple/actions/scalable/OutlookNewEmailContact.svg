@@ -16,8 +16,8 @@
    version="1.1"
    id="SVGRoot"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="OutlookSmall.svg"
-   inkscape:export-filename="C:\Users\drewn\Documents\0GitHub\applauncher-icons\Completed\Simple\24X24\OutlookSmallSVG-24x24.png"
+   sodipodi:docname="OutlookNewEmailContact.svg"
+   inkscape:export-filename="C:\Users\drewn\Documents\0GitHub\applauncher-icons\Completed\Simple\actions\24x24\OutlookNewEmailContact.png"
    inkscape:export-xdpi="18"
    inkscape:export-ydpi="18">
   <defs
@@ -239,7 +239,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="4"
      inkscape:cx="0.25"
-     inkscape:cy="68.635"
+     inkscape:cy="68.658861"
      inkscape:document-units="px"
      inkscape:current-layer="g818"
      showgrid="false"
@@ -258,7 +258,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -289,6 +289,17 @@
            x="60.833332"
            y="94.458336"
            style="font-size:85.33333588px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.94117647;">O</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.33333588px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="78.735672"
+         y="138.34505"
+         id="text847"><tspan
+           sodipodi:role="line"
+           id="tspan845"
+           x="78.735672"
+           y="138.34505"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#000000;fill-opacity:1">+</tspan></text>
     </g>
   </g>
 </svg>

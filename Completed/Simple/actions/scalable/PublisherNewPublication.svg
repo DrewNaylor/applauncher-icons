@@ -16,7 +16,7 @@
    version="1.1"
    id="SVGRoot"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="PublisherSmall.svg"
+   sodipodi:docname="PublisherNewPublication.svg"
    inkscape:export-filename="C:\Users\Drew\Documents\0GitHub\Office App Launcher Icons\applauncher-icons\SVG\Simple\PowerpointLargeSVG-3D.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -290,7 +290,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="0.25"
+     inkscape:cx="41.375"
      inkscape:cy="63.635"
      inkscape:document-units="px"
      inkscape:current-layer="g818"
@@ -310,7 +310,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -341,6 +341,17 @@
            x="64.916664"
            y="94.583336"
            style="font-size:85.33333588px;text-align:center;text-anchor:middle;fill:#ffffff;">P</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.33333588px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="78.735672"
+         y="138.34505"
+         id="text847"><tspan
+           sodipodi:role="line"
+           id="tspan845"
+           x="78.735672"
+           y="138.34505"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ffffff;fill-opacity:1">+</tspan></text>
     </g>
   </g>
 </svg>
