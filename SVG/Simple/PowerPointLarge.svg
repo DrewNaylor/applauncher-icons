@@ -23,6 +23,23 @@
   <defs
      id="defs3713">
     <linearGradient
+       id="linearGradient886">
+      <stop
+         stop-color="#f58c05"
+         offset="0"
+         id="stop880"
+         style="stop-color:#d47904;stop-opacity:1" />
+      <stop
+         stop-color="#fa9e15"
+         offset="0.502674"
+         id="stop882"
+         style="stop-color:#fba218;stop-opacity:1" />
+      <stop
+         stop-color="#ffb025"
+         offset="1"
+         id="stop884" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient925">
       <stop
          stop-color="#ff2765"
@@ -243,7 +260,7 @@
        y2="70" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient925"
+       xlink:href="#linearGradient886"
        id="linearGradient917"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(0.9661496,0.58333024)"
@@ -262,6 +279,11 @@
          offset="0.502674"
          stop-color="#fa9e15" />
       <stop
+         stop-color="#fa9e15"
+         offset="0.62694299"
+         id="stop888"
+         style="stop-color:#fba218;stop-opacity:1;" />
+      <stop
          id="stop864"
          offset="1"
          stop-color="#ffb025" />
@@ -275,7 +297,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="53.026723"
+     inkscape:cx="49.901723"
      inkscape:cy="63.635"
      inkscape:document-units="px"
      inkscape:current-layer="g818"
@@ -325,7 +347,7 @@
            id="tspan5336"
            x="64.916664"
            y="94.583336"
-           style="font-size:85.33333588px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:url(#linearGradient917);stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">A</tspan></text>
+           style="font-size:85.33333588px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:url(#linearGradient917);stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">P</tspan></text>
     </g>
   </g>
 </svg>
