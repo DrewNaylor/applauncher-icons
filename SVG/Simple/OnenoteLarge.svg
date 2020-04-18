@@ -17,34 +17,26 @@
    id="SVGRoot"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="OnenoteLarge.svg"
-   inkscape:export-filename="C:\Users\Drew\Documents\0GitHub\Office App Launcher Icons\applauncher-icons\SVG\Simple\ExcelLargeSVG-3D.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96">
+   inkscape:export-filename="C:\Users\Drew\Documents\0GitHub\Office App Launcher Icons\applauncher-icons\SVG\Simple\OnenoteLargeSVG-3D.png"
+   inkscape:export-xdpi="48"
+   inkscape:export-ydpi="48">
   <defs
      id="defs3713">
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4689">
+       id="linearGradient890">
       <stop
-         style="stop-color:#037851;stop-opacity:1"
+         stop-color="#bc29ff"
          offset="0"
-         id="stop4685" />
+         id="stop884"
+         style="stop-color:#8100bc;stop-opacity:1" />
       <stop
-         id="stop4691"
-         offset="0.5828144"
-         style="stop-color:#18d714;stop-opacity:1" />
+         stop-color="#ca2aff"
+         offset="0.502674"
+         id="stop886" />
       <stop
-         style="stop-color:#1ddd0d;stop-opacity:1;"
-         offset="0.6142754"
-         id="stop4697" />
-      <stop
-         style="stop-color:#22e309;stop-opacity:1;"
-         offset="0.63944417"
-         id="stop4695" />
-      <stop
-         style="stop-color:#2cee00;stop-opacity:1"
+         stop-color="#d72bff"
          offset="1"
-         id="stop4687" />
+         id="stop888" />
     </linearGradient>
     <linearGradient
        id="linearGradient4667"
@@ -122,7 +114,7 @@
        y2="68.727867" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4689"
+       xlink:href="#linearGradient890"
        id="linearGradient4681"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-3.1171846,0.45833107)"
@@ -250,7 +242,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="1.375"
+     inkscape:cx="26.42029"
      inkscape:cy="68.635"
      inkscape:document-units="px"
      inkscape:current-layer="g818"
