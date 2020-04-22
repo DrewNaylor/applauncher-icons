@@ -1,0 +1,3 @@
+# Letter stroke gradient icons
+
+These icons have a colored outer stroke on the edge of the letters that kinda matches the background's gradient in addition to a shadow underneath the letter. It may be difficult to see the detail if they're used at smaller sizes, so it may be necessary to use the icons in the `shadow only` directory instead. Icons in the `letter stroke gradient\apps\24x24` directory have neither a shadow nor a letter stroke gradient as they're too small for that level of detail. Same applies to the icons in the `letter stroke gradient\actions\24x24` directory.
